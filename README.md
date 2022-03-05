@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukcnt
-- 👀 I’m interested in Artificial Intelligence and Machine Learning.
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me /in/lucas-cantoni at LinkdIn or @cantoni.lucas at Instragram.
 
