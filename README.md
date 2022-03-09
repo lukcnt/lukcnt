@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lukcnt
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me /in/lucas-cantoni at LinkdIn or @cantoni.lucas at Instragram.
+- 💻 Software Engineer in development.
+- 🐍 Currently learning Python.
+- 👀 Interested in Machine Learning.
+- 📫 Reach me at /in/lucas-cantoni on LinkdIn and @cantoni.lucas on Instragram.
 
 <!---
 lukcnt/lukcnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
