@@ -1,6 +1,5 @@
 - :wave: Hi, I’m Lucas Cantoni.
-- :desktop_computer: Software Engineer in development.
-- :books: Currently learning C#.
+- :desktop_computer: Software Engineer.
 - :eyes: Interested in Machine Learning.
 - :mailbox: You can contact me on [LinkedIn](https://www.linkedin.com/in/lucas-cantoni/) or [Instragram](https://www.instagram.com/cantoni.lucas/).
 
